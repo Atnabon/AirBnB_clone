@@ -1,1 +1,1 @@
-WEBSTATIC
+Web_Static
